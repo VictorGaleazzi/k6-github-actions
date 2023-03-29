@@ -1,4 +1,4 @@
-name: K6 Load Test
+name: firts K6 Load Test
 on: [push]
 jobs:
   build: K6 Load Test
