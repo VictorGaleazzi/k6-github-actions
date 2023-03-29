@@ -1,7 +1,7 @@
 name: firts K6 Load Test
 on: [push]
 jobs:
-  build: K6 Load Test
+  build: first K6 Load Test
   tuns-on: ubuntu-latest
   steps:
     - name: step 1 - checkout
